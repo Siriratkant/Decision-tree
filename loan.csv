@@ -1,0 +1,10 @@
+Credit ,Term,Income,y
+good,3,high,safe
+fair,5,low,risky
+fair,3,high,safe
+poor,5,high,risky
+good,3,low,risky
+fair,5,low,safe
+poor,3,high,risky
+poor,5,low,safe
+fair,3,high,safe
